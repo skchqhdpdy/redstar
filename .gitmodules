@@ -19,3 +19,6 @@
 [submodule "RealistikPanel"]
 	path = RealistikPanel
 	url = https://github.com/osuRedstar/RealistikPanel
+[submodule "venv-redstar"]
+	path = venv-redstar
+	url = https://github.com/osuRedstar/venv-redstar
