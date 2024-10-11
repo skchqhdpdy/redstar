@@ -6,5 +6,5 @@ config.ini
 .idea
 redistest.py
 *.c
-*.so
+#*.so
 .pyenv

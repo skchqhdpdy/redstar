@@ -5,6 +5,7 @@ nginx/logs/
 ap/config.ini
 ap/__pycache__
 nginx/aodd/
+venv-redstar/ubuntu/lib/python3.6/site-packages/
 
 #temp
 lazer/

@@ -1,3 +1,4 @@
+#ubuntu sudo apt install -y libmysqlclient-dev libjpeg-dev zlib1g-dev
 aiohttp==3.7.0
 bcrypt==3.1.7
 captcha==0.4
@@ -11,14 +12,14 @@ flask==1.1.1
 flask-recaptcha==0.4.2
 geoip2==4.6.0
 mysql-connector==2.2.9
-mysqlclient==1.4.2.post1
+mysqlclient==1.4.2.post1 #sudo apt-get install -y libmysqlclient-dev
 pydub==0.25.1
 openpyxl==3.0.10
 osrparse==3.0.0
 progressbar2==3.38.0
 psutil==5.2.2
 pycountry==20.7.3
-Pillow==8.4.0
+Pillow==8.4.0 #sudo apt-get install -y libjpeg-dev zlib1g-dev
 pymysql==1.0.2
 pypresence==4.2.1
 pytz==2023.3.post1

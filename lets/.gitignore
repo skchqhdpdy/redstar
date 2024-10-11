@@ -8,5 +8,5 @@ runserver.bat
 common_copied
 common_refractor
 *.c
-*.so
+#*.so
 *.log
